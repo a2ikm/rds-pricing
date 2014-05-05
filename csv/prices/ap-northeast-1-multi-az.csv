@@ -1,0 +1,14 @@
+Instance Type,Price Per Hour
+db.t1.micro,$0.060
+db.m3.medium,$0.240
+db.m3.large,$0.480
+db.m3.xlarge,$0.970
+db.m3.2xlarge,$1.930
+db.m1.small,$0.150
+db.m1.medium,$0.290
+db.m1.large,$0.580
+db.m1.xlarge,$1.170
+db.m2.xlarge,$0.730
+db.m2.2xlarge,$1.480
+db.m2.4xlarge,$2.950
+db.cr1.8xlarge,$8.960

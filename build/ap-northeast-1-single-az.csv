@@ -1,0 +1,14 @@
+DB Instance Class,Instance Type,vCPU,ECU,Memory (GiB),PIOPS-Optimized,Network Performance,Price Per Hour
+Micro instances,db.t1.micro,1,Variable,0.615,-,Very Low,$0.030
+Standard - Second Generation,db.m3.medium,1,3,3.75,-,Moderate,$0.120
+Standard - Second Generation,db.m3.large,2,6.5,7.5,-,Moderate,$0.240
+Standard - Second Generation,db.m3.xlarge,4,13,15,Yes,High,$0.485
+Standard - Second Generation,db.m3.2xlarge,8,26,30,Yes,High,$0.965
+Standard - First Generation,db.m1.small,1,1,1.7,-,Low,$0.075
+Standard - First Generation,db.m1.medium,1,2,3.75,-,Moderate,$0.145
+Standard - First Generation,db.m1.large,2,4,7.5,Yes,Moderate,$0.290
+Standard - First Generation,db.m1.xlarge,4,8,15,Yes,High,$0.585
+Memory optimized,db.m2.xlarge,2,6.5,17.1,-,Moderate,$0.365
+Memory optimized,db.m2.2xlarge,4,13,34.2,Yes,Moderate,$0.740
+Memory optimized,db.m2.4xlarge,8,26,68.4,Yes,High,$1.475
+Memory optimized,db.cr1.8xlarge,32,88,244,-,10 Gigabit,$5.270
